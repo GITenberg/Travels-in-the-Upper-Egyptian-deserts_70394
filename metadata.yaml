@@ -1,0 +1,37 @@
+_repo: Travels-in-the-Upper-Egyptian-deserts_70394
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Weigall, Arthur E. P. Brome (Arthur Edward Pearse Brome)
+    aliases:
+    - Weigall, Arthur
+    - Weigall, Arthur Edward Pearse Brome
+    - Weigall, Arthur E.P. Brome
+    birthdate: 1880
+    deathdate: 1934
+    gutenberg_agent_id: '37360'
+    url: http://www.gutenberg.org/2009/agents/37360
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Weigall
+description: ''
+gutenberg_issued: '2023-03-27'
+identifiers:
+  gutenberg: '70394'
+  lccn: '21010470'
+language: en
+pgterms:marc904: https://archive.org/details/travelsinuppereg00weig
+pgterms:marc905: 20230320042250weigall
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bWilliam Blackwood and sons, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- Antiquities'
+- !lcsh 'Egypt -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: Travels in the Upper Egyptian deserts
+url: http://www.gutenberg.org/ebooks/70394
